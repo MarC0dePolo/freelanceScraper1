@@ -1,2 +1,10 @@
 # freelanceScraper1
-Scraper for SEO Improvement
+
+This was my first paid job. It is a Crawler to automate basic Search Engine Optimization on a WordPress admin Page.
+Because there were 800 products it would have been a pain for my Customer to Optmize it by Hand.
+
+The Main goal here was, for each product, to find the "Keyword" of the product with the highest score.
+
+I.e The Product "STIHL elektrischer Rasenmäher"
+the word elektrischer would probably be the highest score when choose as a keyword. Keywords will be highlighted.
+
